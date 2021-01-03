@@ -7,6 +7,7 @@
     <img alt="HTML" src="https://img.shields.io/badge/HTML-red?logo=html5&logoColor=white&style=flat">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-blue?logo=css3&style=flat">
     <img alt='Sass' src="https://img.shields.io/badge/Sass-c69?logo=sass&logoColor=white&style=flat">
+    <img alt='Bootstrap' src="https://img.shields.io/badge/Bootstrap%204-7158e2?logo=bootstrap&logoColor=white&style=flat">
 </div>
 <br>
 <div>
