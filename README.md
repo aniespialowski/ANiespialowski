@@ -19,8 +19,13 @@
 <div>
     <img alt="NPM" src="https://img.shields.io/badge/NPM-cb3837?logo=npm&logoColor=white&style=flat">
     <img alt="Git" src="https://img.shields.io/badge/Git-red?logo=git&logoColor=white&style=flat">
+    <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-informational?logo=bitbucket&logoColor=white&style=flat">
+    <img alt="Jira" src="https://img.shields.io/badge/jira-informational?logo=jira&logoColor=white&style=flat">
 </div>
-<br/>
+<br>
+<div>
+    <img alt="Shopify" src="https://img.shields.io/badge/shopify-green?logo=shopify&logoColor=white&style=flat">
+</div>
 <hr/>
 
 #### My projects
