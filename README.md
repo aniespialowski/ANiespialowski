@@ -1,6 +1,6 @@
 ### Hello Everyone 👋
 
-##### I am a beginner frontend developer looking for the first interesting commercial projects.
+##### I am a freelance frontend developer looking for the next interesting commercial projects
 
 #### Tech Stack
 <div>
@@ -30,17 +30,21 @@
 
 #### My projects
 
-<!--
-**aniespialowski/aniespialowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **aniespialowski/aniespialowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🔭 I’m currently working on designing themes,migrating pages and adding new functionalities - based on the e-commerce platform "Shopify". 
+
+🧑‍💻 I work with Softwaver Company from which I receive new orders. 
+
+🔗 I use tools such as JavaScript (Vanilla JS mainly), HTML, CSS, SCSS, Bootstrap 4+, Visual Studio Code, NPM and Atlassian tools (incl. Confluence, Bitbucket and Jira).
+
+<!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...  -->
+
